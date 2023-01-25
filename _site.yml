@@ -1,7 +1,7 @@
 name: "Jason Rappazzo"
 output_dir: "."
 navbar:
-  title: "Jason Rappazzo"
+  title: "Jason Rappazzo's Capstone Website"
   left:
     - text: "Home"
       href: index.html
