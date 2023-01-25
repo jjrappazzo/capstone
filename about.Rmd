@@ -1,0 +1,19 @@
+---
+title: "About Me"
+output: 
+  html_document:
+    theme: united
+    highlight: tango
+---
+___
+
+**Name:** Jason Rappazzo
+
+**Occupation:** Student
+
+**Major:** Economics
+
+**Minor:** Data Analytics
+
+**Hobbies:** Track and Field, Hiking, Walking, Coffee, and Data Analytics.
+

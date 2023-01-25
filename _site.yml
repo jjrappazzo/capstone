@@ -1,0 +1,13 @@
+name: "Jason Rappazzo"
+output_dir: "."
+navbar:
+  title: "Jason Rappazzo"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "About Me"
+      href: about.html
+output:
+  html_document:
+    theme: readable
+    css: style.css
