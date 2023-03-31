@@ -1,0 +1,47 @@
+---
+title: "United States Car Accident Project"
+output:
+  html_document:
+    theme: darkly
+    toc: true
+    toc_depth: 2
+    toc_float: true
+    number_sections: true
+---
+<br>
+
+# Indroduction
+
+## Motivation for the Project
+
+## Research Questions
+
+## Overview of Modeling Techniques
+
+<u> Binary Response Model </u>
+
+<u> Linear Regression </u>
+
+<u> Lasso Regression </u>
+
+<u> Ridge Regression </u>
+
+<u> Ordinal Logit Regression </u>
+
+<u> Decision Tree </u>
+
+<u> Random Forest </u>
+
+<u> Artificial Neural Network </u>
+
+# Data 
+
+# Conceptual Framework 
+
+# Models
+
+# Results
+
+# Discussion
+
+# Conclusion

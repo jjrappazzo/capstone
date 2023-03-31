@@ -1,13 +1,15 @@
 name: "Jason Rappazzo"
 output_dir: "."
 navbar:
-  title: "Jason Rappazzo's Capstone Website"
+  title: "Capstone Website"
   left:
     - text: "Home"
       href: index.html
     - text: "About Me"
       href: about.html
+    - text: "Project"
+      href: project.html
 output:
   html_document:
-    theme: default
+    theme: darkly
     css: style.css
